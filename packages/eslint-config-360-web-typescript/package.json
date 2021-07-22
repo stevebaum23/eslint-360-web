@@ -1,13 +1,17 @@
 {
-  "name": "eslint-config-360-web-typescript",
+  "name": "@stevebaum23/eslint-config-360-web-typescript",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevebaum23/eslint-360-web"
+  },
   "dependencies": {
-    "eslint-config-360-web-javascript": "1.0.0",
+    "@stevebaum23/eslint-config-360-web-javascript": "1.0.0",
     "@typescript-eslint/eslint-plugin": "^4.28.4",
     "@typescript-eslint/parser": "^4.28.4",
     "eslint": "^7.31.0",

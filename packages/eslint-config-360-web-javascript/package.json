@@ -1,10 +1,14 @@
 {
-  "name": "eslint-config-360-web-javascript",
+  "name": "@stevebaum23/eslint-config-360-web-javascript",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevebaum23/eslint-360-web"
   },
   "dependencies": {
     "eslint": "^7.31.0"
