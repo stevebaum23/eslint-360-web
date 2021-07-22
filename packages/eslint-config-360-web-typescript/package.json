@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-360-web-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "eslint-config-360-web-javascript": "1.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.28.4",
+    "@typescript-eslint/parser": "^4.28.4",
+    "eslint": "^7.31.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}

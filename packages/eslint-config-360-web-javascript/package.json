@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-360-web-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "eslint": "^7.31.0"
+  }
+}
