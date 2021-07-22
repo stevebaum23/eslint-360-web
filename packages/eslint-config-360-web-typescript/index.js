@@ -5,7 +5,7 @@ module.exports = {
     'simple-import-sort'
   ],
   extends: [
-    '360-web-javascript',
+    '@stevebaum23/360-web-javascript',
     'plugin:@typescript-eslint/recommended'
   ],
   rules: {
